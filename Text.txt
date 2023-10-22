@@ -1,0 +1,11 @@
+Arduino uses a C/C++-like language, and the code structure is similar to C/C++. 
+
+However, it includes an Arduino library for simplified hardware control.
+
+This code snippet controls the servo motor and measures distance using an ultrasonic sensor.
+
+ You'll still need a computer for the graphical user interface (GUI) part, 
+ 
+ which typically involves a language like Processing or Python for data visualization.
+
+ Data visualization for your Arduino-based Ultrasonic Radar System can be done using various platforms and libraries.
